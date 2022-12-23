@@ -1,8 +1,8 @@
 <html>
 
 <body>
-    <h2>Hello Jakarta EE 9 with Java 17 on Azure</h2>
-    <p>This is a JSP page</p>
+    <h2>Hello World this is project 2022</h2>
+    <p>This is a page for the demo of project of Dev and Dilip for 2022</p>
     <a href="./helloservlet">Hit the /hello Servlet</a>
 </body>
 
